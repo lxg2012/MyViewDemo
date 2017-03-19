@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyViewDemo</string>
+
+    <string name="pie_string">饼状图</string>
+
+
 </resources>
